@@ -1,0 +1,10 @@
+{
+  "@odata.context": "https://localhost:44329/odata/odata.svc/$metadata",
+  "value": [
+    {
+      "name": "WeatherForecast",
+      "kind": "EntitySet",
+      "url": "WeatherForecast"
+    }
+  ]
+}
